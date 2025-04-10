@@ -6,7 +6,7 @@
          \    /\    /  |¯¯¯¯¯   |         ____   ____            |¯¯¯¯¯  
           \  /  \  /   |¯¯¯¯¯   |        |       |  |   /\  /\   |_____   |
            \/    \/    |_____   |____    |____   |  |  /  \/  \  |        |
-                                         ¯¯       ¯¯             |_____   0
+                                                  ¯¯             |_____   0
 
            
        Welcome to Notepad Browser! Browse the web in Notepad, locally!
