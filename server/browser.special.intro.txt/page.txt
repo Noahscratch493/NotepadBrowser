@@ -1,0 +1,17 @@
+
+                                   _______
+                                  (WELCOME)
+                                   ¯¯¯¯¯¯¯
+
+         \    /\    /  |¯¯¯¯¯   |         ____   ____            |¯¯¯¯¯ |
+          \  /  \  /   |¯¯¯¯¯   |        |       |  |   /\  /\   |_____ |
+           \/    \/    ¯¯¯¯¯¯   |____    |____   |  |  /  \/  \  |      
+                                         ¯¯       ¯¯             |_____ 0
+
+           
+       Welcome to Notepad Browser! Browse the web in Notepad, locally!
+
+           Recommended Sites:
+         
+           1. home.txt
+           2. sitemaker.txt
