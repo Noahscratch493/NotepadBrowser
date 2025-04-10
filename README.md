@@ -22,7 +22,7 @@ Welcome to **Notepad Browser**! This project lets you browse the web (or your ow
 2. **Run the Script**:
    - Open **PowerShell** (make sure it's version 5.1 or later).
    - Navigate to the folder where you extracted the files using the `cd` command.
-   - Run the PowerShell script:
+   - Run the PowerShell script (Note you may have to right click to do it, and also uncheck the "Always ask before opening this file":
      ```powershell
      .\update.ps1
      ```
