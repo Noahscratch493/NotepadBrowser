@@ -1,0 +1,7 @@
+                          (INFO)
+
+          Run update.ps1 to get your Sites!
+     
+    We recommend using the Main Server (1) for websites!
+
+      Note: This page will look different after updating.
